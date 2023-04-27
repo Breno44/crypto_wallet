@@ -1,6 +1,7 @@
 <h1>Seja Bem Vindo!</h1>
 <p>Breno Henrique</p>
 <%= render "menu"%>
-<%= data_br(Date.today) %>
+<%= I18n.l(Date.today) %>
 <%= ambiente_rails%>
 <%= @nome%>
+<p><%= t("hello")%></p>

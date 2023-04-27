@@ -1,0 +1,9 @@
+pt-BR:
+  hello: "Olá mundo"
+  links:
+    show: "Mostrar"
+    edit: "Editar"
+    new: "Novo"
+    create: "Criar"
+    update: "Atualizar"
+    destroy: "Excluir"

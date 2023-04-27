@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  links:
+    show: "Show"
+    edit: "Edit"
+    new: "New"
+    create: "Create"
+    update: "Update"
+    destroy: "Destroy"
